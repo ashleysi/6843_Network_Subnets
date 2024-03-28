@@ -42,16 +42,20 @@ p5First = '132.33.105.161'
 p5Last = '132.33.105.190'
 
 #problem 6
-p6Network = ''
-p6Broadcast = ''
-p6First = ''
-p6Last =  ''
+# IP Address: 43.18.67.221
+# CIDR: 25
+p6Network = '43.18.67.128'
+p6Broadcast = '43.18.67.255'
+p6First = '43.18.67.129'
+p6Last =  '43.18.67.254'
 
 #problem 7
-p7Network = ''
-p7Broadcast = ''
-p7First = ''
-p7Last = ''
+# IP Address: 210.4.29.7
+# CIDR: 28
+p7Network = '210.4.29.0'
+p7Broadcast = '210.4.29.15'
+p7First = '210.4.29.1'
+p7Last = '210.4.29.14'
 
 #problem 8
 p8Network = ''
