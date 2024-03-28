@@ -5,11 +5,13 @@ uniquecode = 70104
 # IP Address: 232.93.2.9
 # CIDR: 25
 p1Network = '232.93.2.0'
-p1Broadcast = '232.93.1.127'
+p1Broadcast = '232.93.2.127'
 p1First = '232.93.2.1'
-p1Last =  '232.93.1.126'
+p1Last =  '232.93.2.126'
 
 #problem 2
+# IP Address: 143.78.220.51
+# CIDR: 29
 p2Network = ''
 p2Broadcast = ''
 p2First = ''
