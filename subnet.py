@@ -34,10 +34,12 @@ p4First = '221.48.144.1'
 p4Last = '221.48.144.254'
 
 #problem 5
-p5Network = ''
-p5Broadcast = ''
-p5First = ''
-p5Last = ''
+# IP Address: 132.33.105.179
+# CIDR: 27
+p5Network = '132.33.105.160'
+p5Broadcast = '132.33.105.191'
+p5First = '132.33.105.161'
+p5Last = '132.33.105.190'
 
 #problem 6
 p6Network = ''
