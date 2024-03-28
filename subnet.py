@@ -74,10 +74,12 @@ p9First = '32.230.209.89'
 p9Last = '32.230.209.94'
 
 #problem 10
-p10Network = ''
-p10Broadcast = ''
-p10First = ''
-p10Last = ''
+# IP Address: 199.215.170.135
+# CIDR: 27
+p10Network = '199.215.170.128'
+p10Broadcast = '199.215.170.159'
+p10First = '199.215.170.129'
+p10Last = '199.215.170.128'
 
 
 """
