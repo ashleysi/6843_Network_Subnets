@@ -12,10 +12,10 @@ p1Last =  '232.93.2.126'
 #problem 2
 # IP Address: 143.78.220.51
 # CIDR: 29
-p2Network = ''
-p2Broadcast = ''
-p2First = ''
-p2Last = ''
+p2Network = '143.78.220.48'
+p2Broadcast = '143.78.220.55'
+p2First = '143.78.220.49'
+p2Last = '143.78.220.54'
 
 #problem 3
 p3Network = ''
