@@ -58,10 +58,12 @@ p7First = '210.4.29.1'
 p7Last = '210.4.29.14'
 
 #problem 8
-p8Network = ''
-p8Broadcast = ''
-p8First = ''
-p8Last = ''
+# IP Address: 121.245.247.50
+# CIDR: 26
+p8Network = '121.245.247.0'
+p8Broadcast = '121.245.247.63'
+p8First = '121.245.247.1'
+p8Last = '121.245.247.62'
 
 #problem 9
 p9Network = ''
