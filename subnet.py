@@ -18,10 +18,12 @@ p2First = '143.78.220.49'
 p2Last = '143.78.220.54'
 
 #problem 3
-p3Network = ''
-p3Broadcast = ''
-p3First = ''
-p3Last = ''
+# IP Address: 54.63.182.94
+# CIDR: 26
+p3Network = '54.63.182.64'
+p3Broadcast = '54.63.182.127'
+p3First = '54.63.182.65'
+p3Last = '54.63.182.126'
 
 #problem 4
 p4Network = ''
