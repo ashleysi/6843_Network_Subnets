@@ -1,11 +1,13 @@
 #enter your unique code
-uniquecode = 
+uniquecode = 70104
 
 #problem 1
-p1Network = ''
-p1Broadcast = ''
-p1First = ''
-p1Last =  ''
+# IP Address: 232.93.2.9
+# CIDR: 25
+p1Network = '232.93.2.0'
+p1Broadcast = '232.93.1.127'
+p1First = '232.93.2.1'
+p1Last =  '232.93.1.126'
 
 #problem 2
 p2Network = ''
